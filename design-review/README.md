@@ -28,4 +28,4 @@ This approach transforms design reviews from manual, subjective processes into a
 - [Slash Command](./design-review-slash-command.md) - Custom slash command implementation for on-demand design reviews
 
 ### Video Tutorial
-For a detailed walkthrough of this workflow, watch the comprehensive tutorial on YouTube: [Patrick Ellis' Channel](https://www.youtube.com/@PatrickOakleyEllis)
+For a detailed walkthrough of this workflow, watch the comprehensive tutorial on YouTube: [Patrick Ellis' Channel](https://www.youtube.com/watch?v=xOO8Wt_i72s)
