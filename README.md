@@ -1,4 +1,4 @@
-# Claude Code Workflow
+# Claude Code Workflows
 The best workflows and configurations I've developed heavily using Claude Code since the day of it's release. Workflows are based off applied learnings from our AI-native startup. 
 
 Workflows are covered in detail with tutorials and demos on [Patrick Ellis' YouTube channel](https://www.youtube.com/@PatrickOakleyEllis).
