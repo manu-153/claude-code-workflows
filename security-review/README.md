@@ -28,4 +28,4 @@ This approach ensures that security is built into the development process from t
 - [Security YAML](./security.yml) - GitHub Action configuration for automated security scanning
 
 ### Video Tutorial
-For a detailed walkthrough of this workflow, watch the comprehensive tutorial on YouTube: [Patrick Ellis' Channel - Coming Soon](https://www.youtube.com/@PatrickOakleyEllis)
+For a detailed walkthrough of this workflow, watch the [comprehensive tutorial on YouTube](https://www.youtube.com/watch?v=nItsfXwujjg).

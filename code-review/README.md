@@ -30,4 +30,4 @@ This approach, battle-tested by Anthropic's own engineering team building Claude
 - [Pragmatic Code Review Subagent](./pragmatic-code-review-subagent.md) - Subagent configuration for comprehensive code analysis
 
 ### Video Tutorial
-For a detailed walkthrough of this workflow, watch the comprehensive tutorial on YouTube: [Patrick Ellis' Channel - Coming Soon](https://www.youtube.com/@PatrickOakleyEllis)
+For a detailed walkthrough of this workflow, watch the [comprehensive tutorial on YouTube](https://www.youtube.com/watch?v=nItsfXwujjg).
