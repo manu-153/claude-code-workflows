@@ -8,6 +8,3 @@ Workflows are covered in detail with tutorials and demos on [Patrick Ellis' YouT
 ### [Design Review Workflow](./design-review/)
 An automated design review system that provides comprehensive feedback on front-end code changes. This workflow uses Playwright browser automation and specialized Claude Code agents to ensure UI/UX consistency, accessibility compliance, and adherence to world-class design standards. Perfect for maintaining design quality across teams and catching visual issues before they reach production.
 
----
-
-*More workflows coming soon...*
