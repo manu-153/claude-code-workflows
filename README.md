@@ -1,9 +1,9 @@
-# Claude Code Workflows
+# Claude Code Workflow
 The best workflows and configurations I've developed heavily using Claude Code since the day of it's release. Workflows are based off applied learnings from our AI-native startup. 
 
 Workflows are covered in detail with tutorials and demos on [Patrick Ellis' YouTube channel](https://www.youtube.com/@PatrickOakleyEllis).
 
-## Workflows
+## Workflow
 
 ### [Code Review Workflow](./code-review/)
 An automated code review system inspired by Anthropic's own Claude Code development process, where AI agents handle the "blocking and tackling" of code review. This workflow implements dual-loop architecture with slash commands and GitHub Actions to automatically review PRs for syntax, completeness, style guide adherence, and bug detection. Free your team to focus on strategic thinking and architectural alignment while AI handles routine checks. [Watch the tutorial](https://www.youtube.com/watch?v=nItsfXwujjg).
